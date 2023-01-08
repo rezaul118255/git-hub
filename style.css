@@ -1,0 +1,163 @@
+.container {
+
+    position: relative;
+    text-align: center;
+}
+
+.banner {
+
+    position: absolute;
+
+    width: 520px;
+    height: 228px;
+    left: 842px;
+    top: 207px;
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 55px;
+    line-height: 70px;
+    text-align: right;
+
+
+}
+
+.banners {
+    margin-top: 30px;
+    position: absolute;
+    width: 494px;
+    height: 78px;
+    left: 876px;
+    top: 468px;
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+
+    text-align: right;
+
+}
+
+.button {
+    position: absolute;
+    border-radius: 20px;
+    width: 100px;
+    height: 50px;
+    left: 1210px;
+    top: 630px;
+    background-color: orange;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+
+
+}
+
+.section2 {
+    display: flex;
+    align-items: center;
+    margin: 50px 200px;
+}
+
+.body {
+    margin-top: 70px;
+    text-align: left;
+    weight: 560px;
+    height: 720px;
+    left: 240 px;
+    right: 945px;
+
+}
+
+h2 {
+    font-size: 40px;
+    text-align: center;
+    margin-top: 80px;
+}
+
+.skills {
+    position: absolute;
+    display: flex;
+    margin: 50px 200px;
+    text-align: center;
+}
+
+.skill {
+    margin-left: 140px;
+}
+
+.photo {
+    margin-top: 300px;
+    margin-left: 210px;
+
+    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
+}
+
+.mindset {
+    font-size: 40px;
+    color: aliceblue;
+    position: absolute;
+    width: 459px;
+    height: 94px;
+    left: 294px;
+    top: 2100px;
+    ;
+
+
+}
+
+.button1 {
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    left: 300px;
+    top: 2250px;
+
+    background-color: #F15B22;
+    border-radius: 8px;
+
+}
+
+.footer-menu {
+    color: aliceblue;
+    margin-left: 200px;
+    margin-top: 200px;
+    font-size: 20px;
+    width: 40%;
+}
+
+.footer {
+    display: flex;
+    width: 50%;
+    background-color: black;
+
+    position: absolute;
+    width: 1600px;
+    height: 577px;
+    left: 0px;
+    top: 2646.3px;
+    background: #151414;
+}
+
+.contack {
+    color: #f1f4f6;
+    position: absolute;
+    right: 250px;
+    margin-top: 160px;
+
+}
+
+. .buttom-model {
+    background-color: #F15B22;
+    position: absolute;
+
+    width: 100px;
+    height: 50px;
+    background-color: #f9f6fa;
+    border-radius: 20px;
+    color: brown;
+
+}
