@@ -93,7 +93,10 @@ h2 {
     margin-top: 300px;
     margin-left: 210px;
 
-    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
+    background-image: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
+    border-radius: 8px;
+
+    margin-right: 200px;
 }
 
 .mindset {
@@ -150,14 +153,17 @@ h2 {
 
 }
 
-. .buttom-model {
-    background-color: #F15B22;
-    position: absolute;
-
+#subscribe {
     width: 100px;
     height: 50px;
     background-color: #f9f6fa;
     border-radius: 20px;
     color: brown;
 
+}
+
+.copyright {
+    color: #f1f4f6;
+    text-align: center;
+    font-style: italic;
 }
